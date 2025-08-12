@@ -1,3 +1,7 @@
+// recieves data from esp_sensors
+// sends data to mega
+// recieves data from mega
+// sends data to esp_lights
 #include <esp_now.h>
 #include <WiFi.h>
 
