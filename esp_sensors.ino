@@ -1,4 +1,4 @@
-//Iteration 2+ sending wind data to sci-esp
+//sending wind data to esp_display
 // Include Libraries
 #include <esp_now.h>
 #include <WiFi.h>
